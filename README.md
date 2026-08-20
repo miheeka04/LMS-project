@@ -1,7 +1,7 @@
 # EduSphere — Learning Management System (MERN Stack)
 
 A complete full-stack LMS with **Admin**, **Teacher**, and **Student** roles,
-built with **React (Vite) + Tailwind CSS** on the frontend and
+built with **React (Vite) + simple CSS** on the frontend and
 **Node.js + Express + MongoDB** on the backend.
 
 This matches the project synopsis: registration/login, course management,
@@ -20,7 +20,7 @@ lms-project/
 ```
 
 **Tech stack**
-- Frontend: React 18, React Router, Tailwind CSS, Axios, Vite
+- Frontend: React 18, React Router, simple CSS, Axios, Vite
 - Backend: Node.js, Express
 - Database: MongoDB (Mongoose)
 - Auth: JWT + bcrypt password hashing (no OTP)
